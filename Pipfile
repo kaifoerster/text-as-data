@@ -16,6 +16,8 @@ python-dotenv = "*"
 tweepy = "*"
 seaborn = "*"
 adjusttext = "*"
+umap-learn = "*"
+bokeh = "*"
 
 [dev-packages]
 
