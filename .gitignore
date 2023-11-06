@@ -25,3 +25,9 @@ datasets/*
 Session-11-Spacy-and-Transformers/out/*
 Session-11-Spacy-and-Transformers/tmp_trainer/*
 Session-7-Embeddings/embeddings/glove.6B.zip
+Session-8-Topic-models/plots/error.pdf
+Session-8-Topic-models/plots/error.pdf
+Session-8-Topic-models/plots/H.pdf
+Session-8-Topic-models/plots/V.pdf
+Session-8-Topic-models/plots/W.pdf
+Session-8-Topic-models/plots/WH.pdf
