@@ -18,6 +18,8 @@ seaborn = "*"
 adjusttext = "*"
 umap-learn = "*"
 bokeh = "*"
+afinn = "*"
+vadersentiment = "*"
 
 [dev-packages]
 
